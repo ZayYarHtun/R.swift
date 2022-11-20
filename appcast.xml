@@ -11,7 +11,7 @@
                             http://you.com/app/2.0.html
                         </sparkle:releaseNotesLink>
             <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
-            <enclosure url="https://github.com/ZayYarHtun/R.swift/raw/master/Musidio.app" sparkle:version="2.0" length="1623481" type="application/octet-stream"/>
+            <enclosure url="https://github.com/ZayYarHtun/R.swift/raw/master/Musidio.app.zip" sparkle:version="2.0" length="1623481" type="application/octet-stream"/>
          </item>
    </channel>
 </rss>
