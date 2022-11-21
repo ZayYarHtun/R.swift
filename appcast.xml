@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="1.0.1" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="1.0.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
    <channel>
       <title>Your Great App's Changelog</title>
       <link>https://raw.githubusercontent.com/ZayYarHtun/R.swift/master/appcast.xml</link>
       <description>Most recent changes with links to updates.</description>
       <language>en</language>
          <item>
-            <title>Version 1.0.1 (2 bugs fixed; 3 new features)</title>
+            <title>Version 1.0.0</title>
                         <sparkle:releaseNotesLink>
                             https://releasenotes.airbuddy.app/Beta/
                         </sparkle:releaseNotesLink>
             <pubDate>Mon, 21 Nov 2022 00:50:11 +0000</pubDate>
-            <enclosure url="https://github.com/ZayYarHtun/R.swift/raw/master/Musidio.zip" sparkle:shortVersionString="1.0.1" sparkle:version="40" sparkle:edSignature="ITaQmoLSEhbxQVDwOST/QTBEFVQHAsPSqozucDL4a1XFJOCY402mqp92yaDO0/qlfGkJXNOMfT3SvdsSq48zBw==" length="4622394" type="application/octet-stream"/>
+            <enclosure url="https://github.com/ZayYarHtun/R.swift/raw/master/Musidio.zip" sparkle:shortVersionString="1.0.0" sparkle:version="40" sparkle:edSignature="ITaQmoLSEhbxQVDwOST/QTBEFVQHAsPSqozucDL4a1XFJOCY402mqp92yaDO0/qlfGkJXNOMfT3SvdsSq48zBw==" length="4622394" type="application/octet-stream"/>
          </item>
    </channel>
 </rss>
