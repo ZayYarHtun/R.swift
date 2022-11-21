@@ -8,7 +8,7 @@
          <item>
             <title>Version 1.0.0</title>
                         <sparkle:releaseNotesLink>
-                            https://releasenotes.airbuddy.app/Beta/
+                            https://raw.githubusercontent.com/ZayYarHtun/R.swift/master/VersionHistory.html
                         </sparkle:releaseNotesLink>
             <pubDate>Mon, 21 Nov 2022 00:50:11 +0000</pubDate>
             <enclosure url="https://github.com/ZayYarHtun/R.swift/raw/master/Musidio.zip" sparkle:shortVersionString="1.0.0" sparkle:version="41" sparkle:edSignature="v+kkB8QD8han59iKimzzwZH9cpTJ5O+07Y8cjXRZrxxiH+JaD/5vdumXBVqlO5Y62EyIByz6bvoSleO6x2DtDQ==" length="4622404" type="application/octet-stream"/>
